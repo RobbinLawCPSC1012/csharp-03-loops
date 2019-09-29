@@ -10,6 +10,10 @@ namespace _02_loops_for_Demo
     {
         static void Main(string[] args)
         {
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine("I will not sleep in class.");
+            }
         }
     }
 }
