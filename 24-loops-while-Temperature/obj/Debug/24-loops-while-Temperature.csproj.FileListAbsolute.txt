@@ -1,0 +1,6 @@
+C:\Users\robbi\Source\Repos\csharp-03-loops\24-loops-while-Temperature\bin\Debug\24-loops-while-Temperature.exe.config
+C:\Users\robbi\Source\Repos\csharp-03-loops\24-loops-while-Temperature\bin\Debug\24-loops-while-Temperature.exe
+C:\Users\robbi\Source\Repos\csharp-03-loops\24-loops-while-Temperature\bin\Debug\24-loops-while-Temperature.pdb
+C:\Users\robbi\Source\Repos\csharp-03-loops\24-loops-while-Temperature\obj\Debug\24-loops-while-Temperature.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-03-loops\24-loops-while-Temperature\obj\Debug\24-loops-while-Temperature.exe
+C:\Users\robbi\Source\Repos\csharp-03-loops\24-loops-while-Temperature\obj\Debug\24-loops-while-Temperature.pdb

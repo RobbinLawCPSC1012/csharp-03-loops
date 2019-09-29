@@ -1,0 +1,6 @@
+C:\Users\robbi\Source\Repos\csharp-03-loops\26-loops-while-SoccerTeam\bin\Debug\26-loops-while-SoccerTeam.exe.config
+C:\Users\robbi\Source\Repos\csharp-03-loops\26-loops-while-SoccerTeam\bin\Debug\26-loops-while-SoccerTeam.exe
+C:\Users\robbi\Source\Repos\csharp-03-loops\26-loops-while-SoccerTeam\bin\Debug\26-loops-while-SoccerTeam.pdb
+C:\Users\robbi\Source\Repos\csharp-03-loops\26-loops-while-SoccerTeam\obj\Debug\26-loops-while-SoccerTeam.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-03-loops\26-loops-while-SoccerTeam\obj\Debug\26-loops-while-SoccerTeam.exe
+C:\Users\robbi\Source\Repos\csharp-03-loops\26-loops-while-SoccerTeam\obj\Debug\26-loops-while-SoccerTeam.pdb
