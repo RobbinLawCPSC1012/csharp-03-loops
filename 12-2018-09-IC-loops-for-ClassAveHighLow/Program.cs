@@ -22,9 +22,9 @@ namespace _12_2018_09_IC_loops_for_ClassAveHighLow
             numStudents = int.Parse(Console.ReadLine());
 
             // Loop over each of our students
-            for (int i = 0; i < numStudents; i++)
+            for (int i = 1; i <= numStudents; i++)
             {
-                Console.Write($"Enter mark for student #{i + 1}: ");
+                Console.Write($"Enter mark for student # {i}: ");
                 curMark = double.Parse(Console.ReadLine());
 
                 // Is this the highest or lowest mark we've seen?
