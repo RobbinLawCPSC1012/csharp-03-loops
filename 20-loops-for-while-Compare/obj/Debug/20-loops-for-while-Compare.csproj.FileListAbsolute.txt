@@ -5,3 +5,10 @@ C:\Users\robbi\Source\Repos\csharp-03-loops\20-loops-for-while-Compare\obj\Debug
 C:\Users\robbi\Source\Repos\csharp-03-loops\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.exe
 C:\Users\robbi\Source\Repos\csharp-03-loops\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.pdb
 C:\Users\robbi\Source\Repos\csharp-03-loops\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.csprojAssemblyReference.cache
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.csprojAssemblyReference.cache
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.csproj.CoreCompileInputs.cache
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.exe
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\obj\Debug\20-loops-for-while-Compare.pdb
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\bin\Debug\20-loops-for-while-Compare.exe.config
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\bin\Debug\20-loops-for-while-Compare.exe
+C:\Users\RobbinL\Source\Repos\csharp-03-loops4\20-loops-for-while-Compare\bin\Debug\20-loops-for-while-Compare.pdb

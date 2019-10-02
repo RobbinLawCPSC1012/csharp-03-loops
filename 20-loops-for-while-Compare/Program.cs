@@ -11,15 +11,16 @@ namespace _20_loops_for_while_Compare
         static void Main(string[] args)
         {
             int i = 0;
-            while (i < 100)
+            while (i < 4)
             {
-                Console.WriteLine("I will not sleep in class.");
+                Console.WriteLine($"WHILE {i}");
                 i++;
             }
-            //for (int i = 0; i < 1000; i++)
-            //{
-            //    Console.WriteLine("I will not sleep in class.");
-            //}
+
+            for (int j = 0; j < 4; j++)
+            {
+                Console.WriteLine($"FOR {j}");
+            }
         }
     }
 }
