@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\bin\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.exe.config
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\bin\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.exe
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\bin\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.pdb
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\obj\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\obj\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.exe
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\obj\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.pdb
+C:\Users\robbi\Source\Repos\csharp-03-loops2\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany\obj\Debug\58-2018-09-IC-loops-do-while-ClassAveHighLowPlayMany.csprojAssemblyReference.cache
