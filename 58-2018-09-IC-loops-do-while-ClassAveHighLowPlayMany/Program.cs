@@ -31,17 +31,15 @@ namespace _58_2018_09_IC_loops_do_while_ClassAveHighLowPlayMany
                     }
                     sumOfMarks += curMark;
                     numStudents++;
+                } else if (curMark == 999) {
+                    if (sumOfMarks != 0) {
+                        avgMark = sumOfMarks / (double)numStudents;
+                        Console.WriteLine($"\nAverage Mark: {avgMark}, Highest Mark: {maxMark}, Lowest Mark: {minMark}");
+                    }
                 } else {
                     Console.WriteLine($"Invalid Mark entered, try again!");
                 }
             } while (curMark != 999);
-            
-
-            // Calculate the average
-            avgMark = sumOfMarks / (double)numStudents;
-
-            // Print our results
-            Console.WriteLine($"\nAverage Mark: {avgMark}, Highest Mark: {maxMark}, Lowest Mark: {minMark}");
         }
     }
 }
